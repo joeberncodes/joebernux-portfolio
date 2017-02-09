@@ -22,5 +22,12 @@ $(document).ready(function(){
   	}
 
   });
+  $('.owl-carousel-sketches').owlCarousel({
+    autoplay: false,
+    loop: true,
+    items: 1,
+    centered: true,
+    margin: 10
+  })
 });
 

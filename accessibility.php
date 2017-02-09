@@ -95,7 +95,7 @@
 						</article>
 					</div>
 				</div>
-				
+
 
 <div class="content container">
                 	<div class="row">
@@ -114,12 +114,6 @@
 
                         
 							<!-- / Owl -->
-						  
-						
-
-                            
-                
-
                             
                         <p class="small mb mt-small">Before we began working on Assist, we brainstormed over 50 ideas within the realm of navigation tools. Here are some highlights I sketched out.</p>
 						</section>
