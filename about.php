@@ -79,7 +79,7 @@
 								
 							</p>
 							<p class="mb-medium">
-								Joe Bernstein is a creative mind with a wealth of technical expertise. He currently studies at the University of Washington and will earn an MS in Human Centered Design and Engineering with a focus on User Experience design in 2017. He also holds a dual BS degree in Mechanical Engineering and Innovative Product Design from Rensselaer Polytechnic Institute. </p>
+								Joe Bernstein is a creative mind with a wealth of technical expertise. He graduated from the University of Washington with a Master's Degree in Human Centered Design & Engineering in 2017. He also holds a dual BS degree in Mechanical Engineering and Innovative Product Design from Rensselaer Polytechnic Institute. </p>
                                 
                                 
 
@@ -90,7 +90,7 @@ Before embarking on his design career, Joe worked in the nanotech and aerospace 
 
 <p class="mb-medium">
  
-He will graduate in March 2017 and is already searching for full-time positions related to interaction design. He seeks mentorship in navigating the Seattle UX industry. Please reach out. He loves chatting over coffee.</p>
+Joe now works as a data visualization engineer for a big data consulting firm. He enjoys tackling quantitative challenges while maintaining a focus on usability and intuitiveness. He seeks mentorship in navigating the Seattle UX industry. Please reach out. He loves chatting over coffee.</p>
 
 						<div class="mb-medium">
 							<img src="images/project-images/Joe-design-principles.png" width="600">

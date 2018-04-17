@@ -103,7 +103,7 @@
 								</p>
 							</address>
          
-                        	&copy;2017 JoeBernUX
+                        	&copy;2018 JoeBernUX
                         	
                         </div>
 					</div>

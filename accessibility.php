@@ -103,11 +103,12 @@
 
 							<!---Begin Owl-->
 							<div class="owl-carousel owl-carousel-sketches owl-theme">
-							  <div> <img src="images/project-images/Joe_5sketches_Page_3.png" alt="sketch idea #1" width="570"> </div>
-							  <div> <img src="images/project-images/Joe_5sketches_Page_2.png" alt="sketch idea #2" width="570"> </div>
-							  <div> <img src="images/project-images/Joe_5sketches_Page_4.png" alt="sketch idea #3" width="570"> </div>
-							  <div> <img src="images/project-images/Joe_5sketches_Page_5.png" alt="sketch idea #4" width="570"> </div>
-							  <div> <img src="images/project-images/Joe_top_ideas_Page_2.png" alt="sketch idea #5" width="570"> </div>
+							  <div> <img src="images/project-images/Joe_top_ideas_Page_2_640.png" alt="sketch idea #5" width="370"> </div>
+							  <div> <img src="images/project-images/Joe_5sketches_Page_3_640.png" alt="sketch idea #1" width="370"> </div>
+							  <div> <img src="images/project-images/Joe_5sketches_Page_2_640.png" alt="sketch idea #2" width="370"> </div>
+							  <div> <img src="images/project-images/Joe_5sketches_Page_4_640.png" alt="sketch idea #3" width="370"> </div>
+							  <div> <img src="images/project-images/Joe_5sketches_Page_5_640.png" alt="sketch idea #4" width="370"> </div>
+							  
 							</div>
 
 
@@ -148,7 +149,7 @@
                             <div class="col-md-8 col-md-offset-2">	
 								<h3>Testing it out</h3>
 								<p>
-									Watch as we tested out the accessible prototype (with screen reader) on one of many participants who helped us. 
+									Watch as we tested out the accessible prototype (with screen reader) on one of many participants who helped us. In this session, I played the hands switching pages in and out.
 								</p>
                                 <iframe src="https://player.vimeo.com/video/148025621" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148025621">Assist App User Testing</a> from <a href="https://vimeo.com/user46559420">Joe Bernstein</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 							</div>

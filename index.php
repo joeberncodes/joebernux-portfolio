@@ -57,60 +57,106 @@
 		<main id="content">
 
 
+<!--
 		<div class="pb-medium light-color">
-		<!-- <div class="row"> -->
-
+		 <div class="row"> 
+		<div class="col-md-10 col-md-offset-1">
+-->
 		<!-- OWL -->
+<!--
 		<div class="owl-carousel owl-carousel-homepage owl-theme">
-			<div> <a href="accessibility.php"><img src="images/project-images/Slide15_320.JPG"><figcaption>
-									App Design
+			<div> <a href="accessibility.php"><img src="images/project-images/PaperPrototype160.jpg" style="width:91px"><figcaption>
+									Paper Prototyping
 								</figcaption></a></div>
-			<div><a href="interaction.php"><img src="images/project-images/skillit5v2_320.PNG" alt="Axure Prototype" class="full-width">
+			<div> <a href="improvement.php"><img src="images/project-images/Android Mobile - 11_160.png" style="width:90px"><figcaption>
+									Material Design
+								</figcaption></a></div>
+			<div><a href="interaction.php"><img src="images/project-images/skillit5v2_160.png" alt="Axure Prototype" style="width:180px">
 							<figcaption>
 								Axure Prototyping
 							</figcaption>
 							</a>
 							</div>
-			<div><a href="visual.php"><img src="images/project-images/Mood-Board-v2_320.png" alt="Visual Design Mood Board" class="full-width">
+			<div><a href="visual.php"><img src="images/project-images/Mood-Board-v2_160x180.png" alt="Visual Design Mood Board" style="width:180px">
 							<figcaption>
 								Visual Design
 							</figcaption>
 							</a>
 							</div>
-			<div><a href="accessibility.php"><img src="images/project-images/Joe_top_ideas_Page_2_320.png" alt="Hand Sketch Solutions" class="full-width">
+			<div><a href="accessibility.php"><img src="images/project-images/Joe_top_ideas_Page_2_160.png" alt="Hand Sketch Solutions" style="width:128px">
 							<figcaption>
 								Hand Sketching
 							</figcaption>
 							</a>
 							</div>
-			
+			<div><a href="interaction.php"><img src="images/project-images/Video_Sketch_160x180.png" alt="Video Sketch" style="width:180px">
+							<figcaption>
+								Video Sketching
+							</figcaption>
+							</a>
+							</div>
 		</div>
-           	
+-->
+		
+        <div class="pb-medium light-color">   	
 					
-				
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">				
 				
 					
 						<div class="col-md-8 col-md-offset-2">
 							<article class="post text-center mb-large">
-								<h1>Selected Projects</h1>
-								<p>The following projects document my pursuit to improve the design of mobile and web interfaces so that all users enjoy a more positive experience</p>
+								<h1>Joe Bernstein's UX Portfolio</h1>
+								<p>Welcome! The following projects document my pursuit to improve the design of mobile and web interfaces so that all users enjoy a more positive experience.</p>
 							</article>
 						</div>
-				
+</div>
+				</div>
 			</div>
+            </div>
 
-			<div class="pb-medium light-color">
+            <div class="pb-medium light-color">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12">				
+						<div class="col-md-12">
 							<article class="post text-center">
-								<div class="post-pic col-md-8 col-md-offset-2">
+								<div class="post-pic col-md-6 col-md-offset-3">
+									<a href="capstone.php"><img src="images/project-images/CapstonePoster.png" alt="Poster of Drifter, a last minute travel-booking app" class="responsive"/></a>
+								</div>
+
+								<div class="col-md-8 col-md-offset-2">
+
+								<h2>Drifter: HCDE Capstone Project</h2>
+								
+								<p>
+									The MS in Human Centered Design and Engineering program at UW challenges students to work with a sponsor to solve real-world challenges in relevant industries. We teamed up with Expedia to investigate last-minute travel experiences.
+								</p>
+								<p><strong>Tags: Project Management, Design Process, Research-based Design, Video Editing</strong></p>
+								<a href="capstone.php" class="btn large primary mt">Read more</a>
+
+
+								</div>
+							</article>
+						</div>
+
+					</div>
+				</div>
+			</div>
+            
+				
+<div class="pb-medium light-color">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<article class="post text-center">
+								<div class="post-pic col-md-6 col-md-offset-3">
 									<a href="improvement.php"><img src="images/project-images/Android Mobile – 10.png" alt="Screenshot of Untethered, a travel service" class="responsive"/></a>
 								</div>
 
 								<div class="col-md-8 col-md-offset-2">
 
-								<h2>Learning Process</h2>
+								<h2>Untethered: My Learning Process</h2>
 								
 								<p>
 									Becoming good at anything takes time. In this case study I reflect on my early mistakes, how I made the best of my talents, and how I pushed myself to improve. 
@@ -134,7 +180,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<article class="post text-center mb-large">
-								<div class="post-pic col-md-8 col-md-offset-2">
+								<div class="post-pic col-md-6 col-md-offset-3">
 									<a href="accessibility.php"><img src="images/project-images/Slide10.JPG" alt="Assist mobile app prototype" class="responsive"/></a>
 								</div>
                                 
@@ -164,7 +210,7 @@
 						<div class="col-md-12">				
 
 							<article class="post text-center mb-large">
-								<div class="post-pic col-md-8 col-md-offset-2">
+								<div class="post-pic col-md-6 col-md-offset-3">
 									<a href="visual.php"><img src="images/project-images/Full-screen-508-view.PNG" alt="Lights, Camera, Design website design" class="responsive"/></a>
                                     
 								</div>
@@ -192,7 +238,7 @@
 					<div class="row">
 						<div class="col-md-12">				
 							<article class="post text-center">
-								<div class="post-pic col-md-8 col-md-offset-2">
+								<div class="post-pic col-md-6 col-md-offset-3">
 									<a href="interaction.php"><img src="images/project-images/IxD_title_screen.png" width="300" alt="Skill-it, an interaction design prototype" class="responsive"/></a>
 								</div>
 

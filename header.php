@@ -88,6 +88,7 @@ src="https://www.facebook.com/tr?id=718768658288168&ev=PageView&noscript=1"
 							<li>
 								<a class="has-sub-menu">Portfolio</a>
 								<ul class="sub-menu">
+                                    <li><a href="capstone.php">Capstone Project</a></li>
                                     <li><a href="improvement.php">Learning Process</a></li>
                                     <li><a href="accessibility.php">Accessibility Design</a></li>
                                     <li><a href="visual.php">Visual Web Design</a></li>
@@ -100,7 +101,7 @@ src="https://www.facebook.com/tr?id=718768658288168&ev=PageView&noscript=1"
 								<a href="about.php" class="has-sub-menu active">About Me</a>
 							</li>
 							
-							<li class="menu-action"><a href="images/BernsteinPortfolioResume.pdf" class="btn btn-primary btn small" target="_blank">Resume</a></li>
+							<li class="menu-action"><a href="BernsteinUXResume.pdf" class="btn btn-primary btn small" target="_blank">Resume</a></li>
 
 						</ul>
 						<!-- / End main navigation -->

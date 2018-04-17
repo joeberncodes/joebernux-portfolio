@@ -36,6 +36,11 @@
 
 	<script src="neko-framework/external-plugins/modernizr/modernizr.custom.js"></script>
 
+	<!-- Owl CSS -->
+	<link type="text/css" rel="stylesheet" href="owl-carousel-2/assets/owl.carousel.min.css">
+	<link type="text/css" rel="stylesheet" href="owl-carousel-2/assets/owl.theme.default.min.css">
+
+
 </head>
 <body class="activate-appear-animation header-dark nav-style-1">
 
@@ -97,67 +102,19 @@
                 	<div class="row">
                 		<section class="col-sm-6 col-sm-offset-3">
 
-                            <div class="carousel slide" data-ride="carousel" id="featured">
-                            <!-- Indicators -->
-							  <ol class="carousel-indicators">
-							    <li data-target="#featured" data-slide-to="0" class="active"></li>
-							    <li data-target="#featured" data-slide-to="1"></li>
-							    <li data-target="#featured" data-slide-to="2"></li>
-							    <li data-target="#featured" data-slide-to="3"></li>
-							    <li data-target="#featured" data-slide-to="4"></li>
-							    <li data-target="#featured" data-slide-to="5"></li>
-							    <li data-target="#featured" data-slide-to="6"></li>
-							    <li data-target="#featured" data-slide-to="7"></li>
-							  </ol>
-							
-                              <div class="carousel-inner">
-							    <div class="item active">
-							      <img src="images/project-images/EnterFlightInfo1.png" alt="prototype screen 1" width="570">
-							    </div>
 
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo2.png" alt="prototype screen 2" width="570">
-							    </div>
-
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo3.png" alt="prototype screen 3" width="570">
-							    </div>
-
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo4.png" alt="prototype screen 4" width="570">
-							    </div>
-
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo5.png" alt="prototype screen 5" width="570">
-							    </div>
-
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo6.png" alt="prototype screen 6" width="570">
-							    </div>
-
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo7.png" alt="prototype screen 7" width="570">
-							    </div>
-
-							    <div class="item">
-							      <img src="images/project-images/EnterFlightInfo8.png" alt="prototype screen 8" width="570">
-							    </div>
-							  </div>
-							  
-
-							  <!-- Wrapper for slides -->
-							  
-
-							  <!-- Left and right controls -->
-							  <a class="left carousel-control" 
-							  	href="#featured" role="button" data-slide="prev">
-							    <span class="glyphicon glyphicon-chevron-left"></span>
-							  </a>
-							  <a class="right carousel-control" 
-							  	href="#featured" role="button" data-slide="next">
-							    <span class="glyphicon glyphicon-chevron-right"></span>
-							  </a>
+                		<!---Begin Owl-->
+							<div class="owl-carousel owl-carousel-sketches owl-theme">
+							  <div> <img src="images/project-images/EnterFlightInfo1.png" alt="prototype screen 1" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo2.png" alt="prototype screen 2" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo3.png" alt="prototype screen 3" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo4.png" alt="prototype screen 4" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo5.png" alt="prototype screen 5" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo6.png" alt="prototype screen 6" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo7.png" alt="prototype screen 7" width="570"> </div>
+							  <div> <img src="images/project-images/EnterFlightInfo8.png" alt="prototype screen 8" width="570"> </div>
 							</div>
+
                             
                         <p class="small mb mt-small">The first app prototype I ever made in Axure.</p>
 						</section>
@@ -261,16 +218,17 @@
 
 	<!-- external framework plugins -->
 	<script type="application/javascript" src="neko-framework/external-plugins/external-plugins.min.js"></script>
-	<!--added cdn from Lynda-->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script src="js/script.js"</script>
-	<script src="js/jquery-2.1.4.min.js"</script>
-	<script src="js/bootstrap.min.js"</script>
+	
 	<!-- neko framework script -->
 	<script type="text/javascript" src="neko-framework/js/neko-framework.js"></script>
 
+	<!-- Owl -->
+	<script type="text/javascript" src="owl-carousel-2/owl.carousel.min.js"></script>
 
 	<!-- neko custom script -->	
 	<script src="js/custom.js"></script>
+    
+     <!-- my script -->	
+	<script src="js/script.js"></script>
 </body>
 </html>
